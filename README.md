@@ -14,7 +14,7 @@ In the course we'll be using:
 </ul>
 <p/>
 
-<p>To keep things simple and condensed I'll be using Firebase for everything.</p>
+<p>To keep thing simple and condensed I'll be using Firebase for everything.</p>
 
 <h2>Lecture Source Code:</h2>
 <ol>
